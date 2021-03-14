@@ -5,10 +5,10 @@ Lyhyt kuvaus sovelluksesta:
   ilmenee hoitamiseen tarkoitettujen tavaroiden sijainti. Hoitaja voi tarkastaa nämä ohjeet omasta sovelluksestaan.
   
 Komponentit:
-  React-native-navigaatio (Tab-navigaatio)
-  React-native-elements käyttöliittymäkirjasto
-  React Native Date-Time-Picker (@react-native-community/datetimepicker)
-  Expo ImagePicker
+  React-native-navigaatio (Tab-navigaatio),
+  React-native-elements käyttöliittymäkirjasto,
+  React Native Date-Time-Picker (@react-native-community/datetimepicker),
+  Expo ImagePicker,
   React-Native-Picker (@react-native-picker/picker)
   
  Tallennus:
